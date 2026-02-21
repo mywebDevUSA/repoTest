@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "year": "1866",
+        "publisher": "The Russian Messenger"
+    },
+    {
+        "title": "The Metamorphosis",
+        "author": "Franz Kafka",
+        "year": "1915",
+        "publisher": "Kurt Wolff Verlag"
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "year": "1946",
+        "publisher": "Hamish Hamilton"
+    }
+]
